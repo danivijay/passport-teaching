@@ -1,0 +1,24 @@
+{
+  "name": "passport-teaching",
+  "version": "1.0.0",
+  "description": "For teaching passport OAuth",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danivijay/passport-teaching.git"
+  },
+  "author": "The Net Ninja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danivijay/passport-teachingissues"
+  },
+  "homepage": "https://github.com/danivijay/passport-teaching#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.1"
+  }
+}
